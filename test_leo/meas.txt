@@ -1,0 +1,9 @@
+Two repetitions:
+
+	first rep relative delay = 157ps
+	second rep relative delay = 153.5ps
+
+Three repetitions:
+	first rep relative delay = 157ps 
+	second rep relative delay = 157ps
+	third rep relative delay = 157ps
